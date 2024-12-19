@@ -1,6 +1,6 @@
 import React from "react";
-import { TextInput, Button } from "react-native";
+import { Text, TextInput, Button } from "react-native";
 
 export default function LoginForm() {
-  return <Text>Hola soy el Login</Text>;
+  return <Text>Hola soy el LoginForm</Text>;
 }
